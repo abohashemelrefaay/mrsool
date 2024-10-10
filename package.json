@@ -1,7 +1,7 @@
 {
   "name": "mrsool",
   "version": "0.1.0",
-  "homepage": "https://abohashemelrefaay.github.io/mrsool.git",
+  "homepage": "https://abohashemelrefaay.github.io/mrsool",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
