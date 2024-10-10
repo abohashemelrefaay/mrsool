@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mrsool.git/static/css/main.a0c04544.css",
+    "main.js": "/mrsool.git/static/js/main.b8dbcacc.js",
+    "static/js/453.fda24832.chunk.js": "/mrsool.git/static/js/453.fda24832.chunk.js",
+    "index.html": "/mrsool.git/index.html",
+    "main.a0c04544.css.map": "/mrsool.git/static/css/main.a0c04544.css.map",
+    "main.b8dbcacc.js.map": "/mrsool.git/static/js/main.b8dbcacc.js.map",
+    "453.fda24832.chunk.js.map": "/mrsool.git/static/js/453.fda24832.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0c04544.css",
+    "static/js/main.b8dbcacc.js"
+  ]
+}
